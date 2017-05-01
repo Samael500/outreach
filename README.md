@@ -11,4 +11,5 @@ Automatic news announcement from Atom feed to social networks
 - [ ] Facebook
 - [ ] LinkedIn
 - [ ] Stackoverflow dev story
+- [ ] Google+
 - [ ] Odnoklassniki
